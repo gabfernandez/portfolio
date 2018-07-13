@@ -1,3 +1,9 @@
 body {
-    background: pink
+    background: pink;
+}   
+.anything {
+    font-size: 35px;
+}
+.somethingelse {
+    font-style: italic;
 }
