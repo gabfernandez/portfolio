@@ -7,3 +7,10 @@ body {
 .somethingelse {
     font-style: italic;
 }
+#anything {
+    float: right;
+}
+#somethingelse {
+    float: right;
+}
+/*padding: 10px;
