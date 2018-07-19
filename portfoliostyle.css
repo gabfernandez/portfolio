@@ -1,6 +1,15 @@
 body {
-    background: pink;
+    background: rgb(88, 11, 31);
 }   
+body {
+    color: white
+}
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+body{
+    font-size: 35px
+}
 .anything {
     font-size: 35px;
 }
