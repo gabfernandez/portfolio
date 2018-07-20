@@ -4,8 +4,8 @@ body {
 body {
     color: white
 }
-body {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+head{
+   font-family: 'Oswald', sans-serif;
 }
 body{
     font-size: 35px
@@ -16,10 +16,27 @@ body{
 .somethingelse {
     font-style: italic;
 }
+nav { 
+    font-family: 'Oswald', sans-serif;
+}
 #anything {
     float: right;
+    font-family: 'Merriweather', serif;
+}
+a {
+    color: azure;
 }
 #somethingelse {
     float: right;
+    font-family: 'Merriweather', serif;
 }
+
+a{
+  color: white;
+}
+a:hover{
+   color: bisque;
+}
+
+
 /*padding: 10px;
