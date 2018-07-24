@@ -1,45 +1,64 @@
+/* TODO: You don't need a separate group for each property, if they are all on the same selector...   So for example you can do your body selector like this: 
+
 body {
     background: rgb(88, 11, 31);
-}   
+    color: white
+    font-size: 35px
+}
+*/
+
+body {
+    background: rgb(88, 11, 31);
+}
+
 body {
     color: white
 }
-head{
-   font-family: 'Oswald', sans-serif;
+
+head {
+    font-family: 'Oswald', sans-serif;
 }
-body{
+
+body {
     font-size: 35px
 }
+
 .anything {
     font-size: 35px;
 }
+
 .somethingelse {
     font-style: italic;
 }
-nav { 
+
+nav {
     font-family: 'Oswald', sans-serif;
 }
+
 #anything {
     float: right;
     font-family: 'Merriweather', serif;
 }
+
 a {
     color: azure;
 }
+
 #somethingelse {
     float: right;
     font-family: 'Merriweather', serif;
 }
 
-a{
-  color: white;
-}
-a:hover{
-   color: bisque;
-}
-@media only screen {
-    and (max-width: 1020 )
+a {
+    color: white;
 }
 
+a:hover {
+    color: bisque;
+}
+
+@media only screen {
+    and (max-width: 1020)
+}
 
 /*padding: 10px;
