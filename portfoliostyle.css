@@ -1,45 +1,54 @@
 body {
-    background: rgb(88, 11, 31);
-}   
+    background:white
+}
 body {
-    color: white
+    color: rgb(71, 16, 16);
 }
-head{
-   font-family: 'Oswald', sans-serif;
+head {
+    font-family: 'Oswald', sans-serif;
 }
-body{
-    font-size: 35px
+body {
+    font-size: 200%
 }
+
 .anything {
     font-size: 35px;
 }
+
 .somethingelse {
     font-style: italic;
 }
-nav { 
+
+nav {
     font-family: 'Oswald', sans-serif;
 }
+
 #anything {
     float: right;
     font-family: 'Merriweather', serif;
 }
+
 a {
     color: azure;
 }
+
 #somethingelse {
-    float: right;
+    float: left;
     font-family: 'Merriweather', serif;
 }
 
-a{
-  color: white;
+a {
+    color: rgb(71, 16, 16);
 }
-a:hover{
-   color: bisque;
+
+a:hover {
+    color: rgb(92, 89, 92);
 }
+
 @media only screen {
-    and (max-width: 1020 )
+    and {
+        max-width: 1020
+    }
 }
 
-
-/*padding: 10px;
+/*padding: 10px*/

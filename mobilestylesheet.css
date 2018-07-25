@@ -1,3 +1,6 @@
 @media only screen {
-    and (max-width: 320 )
+    and {max-width: 320}
+}
+@media all and (landscape){
+    max-width: 730;
 }
