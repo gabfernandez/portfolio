@@ -1,39 +1,30 @@
 body {
-    background:white
-}
-body {
+    background: white;
     color: rgb(71, 16, 16);
-}
-head {
-    font-family: 'Oswald', sans-serif;
-}
-body {
     font-size: 200%
-}
-
-.anything {
-    font-size: 35px;
-}
-
-.somethingelse {
-    font-style: italic;
 }
 
 nav {
     font-family: 'Oswald', sans-serif;
 }
 
-#anything {
+head {
+    font-family: 'Oswald', sans-serif;
+}
+
+.anything {
+    font-size: 35px;
+}
+
+.julianpic {
     float: right;
-    font-family: 'Merriweather', serif;
+    width: 500px;
+    height: 600px;
 }
 
-a {
-    color: azure;
-}
-
-#somethingelse {
+.anything {
     float: left;
+    width: 700px;
     font-family: 'Merriweather', serif;
 }
 
@@ -48,6 +39,26 @@ a:hover {
 @media only screen {
     and {
         max-width: 1020
+    }
+}
+
+#faded {
+    animation-name: appear;
+    animation-duration: 6s
+}
+
+@keyframes appear{
+    0% {
+        opacity: .25;
+        transform: scale(.5);
+    }
+    50% {
+        opacity: 1.5;
+        transform: scale(1);
+    }
+    100%{
+        opacity: 1;
+        tarnsfomr: scale(1)
     }
 }
 
