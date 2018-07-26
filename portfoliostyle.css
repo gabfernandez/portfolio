@@ -16,16 +16,20 @@ head {
     font-size: 35px;
 }
 
-.julianpic {
+.aboutpic {
     float: right;
-    width: 500px;
-    height: 600px;
+    width: 35%;
+    height: 550px;
 }
 
 .anything {
     float: left;
-    width: 700px;
+    width: 65%;
     font-family: 'Merriweather', serif;
+}
+.contactform {
+    width:100%;
+    height: 1000px
 }
 
 a {
@@ -36,15 +40,10 @@ a:hover {
     color: rgb(92, 89, 92);
 }
 
-@media only screen {
-    and {
-        max-width: 1020
-    }
-}
-
 #faded {
     animation-name: appear;
-    animation-duration: 6s
+    animation-duration: 6s;
+    width: 100%;
 }
 
 @keyframes appear{

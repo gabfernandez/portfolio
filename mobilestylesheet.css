@@ -1,6 +1,8 @@
-@media only screen {
-    and {max-width: 320}
-}
-@media all and (landscape){
-    max-width: 730;
-}
+
+@media all and (orientation: portrait) and (max-width: 325px){
+   #faded {
+        animation-name: appear;
+        animation-duration: 6s;
+        width: 100%;
+    }
+   }
