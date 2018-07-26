@@ -14,11 +14,13 @@ head {
 
 .anything {
     font-size: 35px;
+    float: left;
+    width: 400px
 }
 
 .aboutpic {
     float: right;
-    width: 35%;
+    width: 400px;
     height: 550px;
 }
 
