@@ -1,0 +1,34 @@
+Portfolio final grade: 94
+
+Comments:  Very clean design, and your site works well on most screen sizes in spite of the lack of real changes in the media queries.  Good job.
+
+########
+
+Code Quality:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
+
+Grade: 92
+(50% of overall grade)
+
+Points deducted for these items:
+    -3 Mobile stylesheet link missing on 3 pages.
+    -3 .anything CSS style selector split in two with some duplicate properties.
+    -2 Animation property "transform" mis-spelled/broken
+
+########
+
+Design and Accessibility:  Does it incorporate the CSS techniques covered in class and incorporate accessibility support for at least one of the areas we discussed?
+
+Grade: 100
+(25% of overall grade)
+
+Points deducted for these items:
+
+########
+
+Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
+
+Grade: 90
+(25% of overall grade)
+
+Points deducted for these items:
+    -10 Media properties applied for mobile responsive design are not actually different and don't change the responsiveness of the page.
