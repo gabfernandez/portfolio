@@ -17,6 +17,10 @@ head {
     float: left;
     width: 400px
 }
+.projlink{
+    font-size: .95em;
+    font-family: 'Roboto Slab', serif;
+}
 
 .aboutpic {
     float: right;
@@ -59,7 +63,7 @@ a:hover {
     }
     100%{
         opacity: 1;
-        tarnsfomr: scale(1)
+        tarnsform: scale(1)
     }
 }
 
