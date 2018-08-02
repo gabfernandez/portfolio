@@ -1,4 +1,4 @@
-Portfolio final grade: 94
+Portfolio final grade: 96
 
 Comments:  Very clean design, and your site works well on most screen sizes in spite of the lack of real changes in the media queries.  Good job.
 
@@ -27,8 +27,11 @@ Points deducted for these items:
 
 Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
 
-Grade: 90
+Grade: 100
 (25% of overall grade)
 
 Points deducted for these items:
     -10 Media properties applied for mobile responsive design are not actually different and don't change the responsiveness of the page.
+    
+Bonus Points awarded for these items:
+    +10 because of completing the media queries
